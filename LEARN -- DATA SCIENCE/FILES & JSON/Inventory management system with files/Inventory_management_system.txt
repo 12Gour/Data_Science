@@ -1,0 +1,5 @@
+1 : 5_star : 5 : 0
+2 : Milky_Bar : 10 : 50
+3 : Amul_Dark_Chocolate : 100 : 25
+4 : Dark_Fantasy : 10 : 50
+5 : Oreo : 10 : 50
